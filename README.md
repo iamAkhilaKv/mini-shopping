@@ -16,12 +16,12 @@ A simple shopping app demo with JWT-based authentication.
 ## Screenshots
 
 ### Home Screen
-<img src="images/home.png" alt="Home Screen" width="300">
+<img src="home.png" alt="Home Screen" width="300">
 
 ### Product List
-<img src="images/product.png" alt="Product List" width="300">
+<img src="product.png" alt="Product List" width="300">
 
 ### Cart Screen
-<img src="images/cart.png" alt="Cart Screen" width="300">
+<img src="cart.png" alt="Cart Screen" width="300">
 
 
